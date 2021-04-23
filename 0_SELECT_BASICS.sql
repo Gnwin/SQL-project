@@ -61,9 +61,9 @@ Select the code which shows the countries that end in A or L
 4. 
 Pick the result from the query:
 
-  SELECT name,length(name)
-  FROM world
-  WHERE length(name)=5 and region='Europe'
+SELECT name,length(name)
+FROM world
+WHERE length(name)=5 and region='Europe'
 
   Answer:
   name	length(name)
