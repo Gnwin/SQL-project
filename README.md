@@ -5,7 +5,7 @@ SQL Project that showcases answers to questions in SQL Zoo
 
 # Repository Address
 
-https://github.com/SunnySparks/SQL-Project
+https://github.com/Gnwin/SQL-Project
 
 
 ## Author
@@ -17,14 +17,14 @@ https://github.com/SunnySparks/SQL-Project
 - LinkedIn: [Godwin Nwachukwu](https://www.linkedin.com/in/n-gwin/)
 
 
-## Show your support
-
-Give a ⭐️ if you like this project, this will help me grow as a developer!
-
-
 ##  Contributing
 
 Contributions, issues, and feature requests are welcome!
+
+
+## Show your support
+
+Give a ⭐️ if you like this project, this will help me grow as a developer!
 
 
 ## 📝 License
